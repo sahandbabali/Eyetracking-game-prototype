@@ -1,0 +1,29 @@
+body{
+      text-align: center;
+      font-family: open sans;
+      background-color: #118ab2;
+      color: white;
+}
+
+#defaultCanvas0{
+   position: fixed;
+   left : 0;
+   top: 0;
+   z-index: -100;
+}
+
+.titlee {
+      font-size: medium;
+}
+
+.adadha{
+      font-size: x-large;
+}
+
+#webgazerGazeDot{
+      background-color: white !important;
+}
+
+#pointema{
+      font-size: 2em;
+}
